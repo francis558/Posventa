@@ -1,2 +1,0 @@
-# Posventa
-Punto de ventas
